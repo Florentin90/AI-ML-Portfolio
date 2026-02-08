@@ -1,0 +1,4 @@
+Timestamp,System,IncidentType,Severity,RootCause
+2026-01-01,SystemA,Login Failure,High,Auth Error
+2026-01-02,SystemB,Network Issue,Medium,Routing Error
+2026-01-03,SystemC,App Crash,High,Memory Leak
