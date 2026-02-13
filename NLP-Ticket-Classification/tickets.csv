@@ -1,0 +1,6 @@
+text,category
+"Cannot login to system",Login Issue
+"Network is down in office",Network Issue
+"Application crashes on start",App Crash
+"Password reset not working",Login Issue
+"Email server unreachable",Network Issue
